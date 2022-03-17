@@ -26,30 +26,39 @@
 
 ## Snapshots
 ‘ls’명령 사용
+
 ![image](https://user-images.githubusercontent.com/90737528/158814348-45240f4d-d672-480c-be9c-22482224bff1.png)
 
 ‘get’ 명령어 사용
+
 ![image](https://user-images.githubusercontent.com/90737528/158814366-fa70dfe4-a264-467a-943f-73581e2fb3cc.png)
 
 ‘get’명령어 사용 중에 ‘rm’또는‘put’사용 시
+
 ![image](https://user-images.githubusercontent.com/90737528/158814382-a7f24c12-a43f-4151-8ed3-f97f2ba8eb7d.png)
 
 ‘put’명령어 사용 시
+
 ![image](https://user-images.githubusercontent.com/90737528/158814393-cfabe313-f5ad-4f4f-bbb4-0ad13206d4f1.png)
 
 서버에 해당 파일이 없거나 같은 파일이 존재할 때
+
 ![image](https://user-images.githubusercontent.com/90737528/158814428-d824b1ed-a700-469b-bb0b-a7520bdc2f72.png)
 
 디렉토리 이동
+
 ![image](https://user-images.githubusercontent.com/90737528/158814439-e8b8b5ef-2d94-403a-afe1-99c53894988a.png)
 
 ‘rm’명령어 사용
+
 ![image](https://user-images.githubusercontent.com/90737528/158814450-b9713616-ea75-4189-8661-ae60eb911bf1.png)
 
 파일 사용중에 ‘rm’사용 시
+
 ![image](https://user-images.githubusercontent.com/90737528/158814458-1c5f980f-187c-4838-95df-d93c457d9a3c.png)
 
 로그기록
+
 ![image](https://user-images.githubusercontent.com/90737528/158814473-a8ce1140-2515-4ec3-a88c-ffd2ba153ac1.png)
 
 
